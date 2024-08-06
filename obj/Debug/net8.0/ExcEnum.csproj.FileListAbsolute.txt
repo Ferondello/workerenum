@@ -1,0 +1,15 @@
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.AssemblyInfoInputs.cache
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.AssemblyInfo.cs
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.csproj.CoreCompileInputs.cache
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.sourcelink.json
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\bin\Debug\net8.0\ExcEnum.exe
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\bin\Debug\net8.0\ExcEnum.deps.json
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\bin\Debug\net8.0\ExcEnum.runtimeconfig.json
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\bin\Debug\net8.0\ExcEnum.dll
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\bin\Debug\net8.0\ExcEnum.pdb
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.dll
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\refint\ExcEnum.dll
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.pdb
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ExcEnum.genruntimeconfig.cache
+C:\Users\feron\Desktop\C#\ExcEnum\ExcEnum\obj\Debug\net8.0\ref\ExcEnum.dll
